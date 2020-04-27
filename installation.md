@@ -1,4 +1,4 @@
-[Documentation &racquo;](http://localhost/test-wp/index.php/documentation/)
+[Documentation &raquo;](http://localhost/test-wp/index.php/documentation/)
 
 ## Quos conplentur deus
 
