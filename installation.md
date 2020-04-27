@@ -1,5 +1,3 @@
-# Installation
-
 ## Quos conplentur deus
 
 Lorem markdownum poenas suspensus videoque **pectus**, si nasci pecudesque sive.

@@ -1,5 +1,3 @@
-
-
 ## Ver ora non ergo licet parabat Verque
 
 Lorem markdownum excessere, ad neque populi patre cum palmas. Aequo sanguine
