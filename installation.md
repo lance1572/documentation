@@ -13,7 +13,7 @@
 ### Nicolage Cage Academy Award Winner for Between Two Worlds....
 #### The Best show on Netflix! Don't Miss Out!
 
-![Nicolage Cage](http://localhost/test-wp/wp-content/uploads/2020/04/2-1.jpg)
+!(http://localhost/test-wp/wp-content/uploads/2020/04/2-1.jpg)
 
 
 
