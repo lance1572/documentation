@@ -14,8 +14,6 @@
 #### The Best show on Netflix! Don't Miss Out!
 
 
-[![](https://screenqueens.files.wordpress.com/2018/12/2-1.jpg)](#)
-
 <a href="#"><img src="https://screenqueens.files.wordpress.com/2018/12/2-1.jpg" /></a>
 
 
