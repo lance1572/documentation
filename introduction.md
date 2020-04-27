@@ -1,3 +1,5 @@
+[Documentation](/documentation)
+
 ## Ac mediae fer tamen te sunt prosunt
 
 Lorem markdownum deos Tiresiae possideat pepercit eques non non colubras sumit
