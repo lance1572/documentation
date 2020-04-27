@@ -1,4 +1,4 @@
-[Documentation](/documentation)
+[Documentation](http://localhost/test-wp/index.php/documentation/)
 
 ## Ver ora non ergo licet parabat Verque
 
