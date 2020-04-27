@@ -1,4 +1,4 @@
-# Getting Started
+
 
 ## Ver ora non ergo licet parabat Verque
 
